@@ -1,5 +1,14 @@
 data/*/
 data/*.tar
-models/*/
+models/*
 models/*.tar
 **/.ipynb_checkpoints/
+venv
+.log
+hailo_logs/
+*.log
+hailo
+*.har
+*.hef
+*.tflite
+edgetpu_venv
